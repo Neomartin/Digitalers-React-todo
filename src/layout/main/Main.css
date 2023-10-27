@@ -1,0 +1,8 @@
+.todo-input {
+    width: 100%;
+    
+    @media (width > 768px) {
+        width: 50%;
+    }
+    
+}
